@@ -1,0 +1,4 @@
+kernel/drivers/input/sensor/bma250_driver.ko
+kernel/drivers/input/sensor/bmm050_driver.ko
+kernel/drivers/input/sensor/bmm050.ko
+kernel/drivers/input/sensor/apds9190.ko

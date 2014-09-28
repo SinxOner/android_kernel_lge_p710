@@ -1,0 +1,5 @@
+kernel/arch/arm/mach-msm/dma_test.ko
+kernel/arch/arm/mach-msm/btpintest.ko
+kernel/arch/arm/mach-msm/msm_cpr.ko
+kernel/arch/arm/mach-msm/msm_vp.ko
+kernel/arch/arm/mach-msm/lge/lge_handle_panic.ko

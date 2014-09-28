@@ -1,0 +1,9 @@
+kernel/drivers/input/touchscreen/melfas_mms136_ts.ko
+kernel/drivers/input/touchscreen/melfas_mms136_ISC_download.ko
+kernel/drivers/input/touchscreen/melfas_mms136_ISP_download.ko
+kernel/drivers/input/touchscreen/melfas_mms136_tovis_bin.ko
+kernel/drivers/input/touchscreen/melfas_mms136_lgit_bin.ko
+kernel/drivers/input/touchscreen/lge_touch_core.ko
+kernel/drivers/input/touchscreen/touch_synaptics_s7020.ko
+kernel/drivers/input/touchscreen/touch_tester.ko
+kernel/drivers/input/touchscreen/touch_synaptics_fw_upgrade.ko
